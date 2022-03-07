@@ -1,0 +1,145 @@
+@media (max-width : 1023px) {
+    .main_container {
+        width: 40%;
+        height: 100%;
+    }
+    .inner_page {
+        height: 100%;
+    } 
+    .darkmode {
+        height: 100%;
+    }
+    .inner_img img {
+        width: 250px;
+        margin-top: 15px;
+    }
+    .inner_controller img {
+        margin: 20px 8px 0px;
+        width: 60px;
+    }
+  
+} 
+@media (max-width : 767px) {
+    .main_container {
+        width: 45%;
+        height: 100%;
+    }
+    .inner_page {
+        height: 100%;
+    }
+    .darkmode {
+        height: 100%;
+    }
+    .inner_img img {
+        width: 220px;
+        margin-top: 15px;
+    }
+    .inner_controller img {
+        margin: 20px 8px 0px;
+        width: 50px;
+    }
+       
+} 
+@media (max-width : 479px) {
+    .main_container {
+        width: 70%;
+        height: 100%;
+    }
+    .inner_page {
+        height: 100%;
+    }
+    .darkmode {
+        height: 100%;
+    }
+    .inner_img img {
+        width: 220px;
+        margin-top: 15px;
+    }
+    .inner_controller img {
+        margin: 20px 8px 0px;
+        width: 50px;
+    }
+  
+} 
+@media (max-width : 425px) {
+    .main_container {
+        width: 75%;
+        height: 100%;
+    }
+    .inner_page {
+        height: 100%;
+    }
+    .darkmode {
+        height: 100%;
+    }
+    .inner_img img {
+        width: 220px;
+        margin-top: 15px;
+    }
+    .inner_controller img {
+        margin: 20px 8px 0px;
+        width: 50px;
+    }
+ 
+} 
+@media (max-width : 375px) {
+    .main_container {
+        width: 85%;
+        height: 100%;
+    }
+    .inner_page {
+        height: 100%;
+    }
+    .inner_img img {
+        width: 220px;
+        margin-top: 15px;
+    }
+    .inner_controller img {
+        margin: 20px 8px 0px;
+        width: 50px;
+    }
+  
+} 
+@media (max-width : 320px) {
+    .main_container {
+        width: 95%;
+        height: 100%;
+    }
+    .inner_page {
+        height: 100%;
+    }
+    .inner_page p:nth-child(1){
+        margin: 20px 0px 0px;
+    }
+    .inner_img img {
+        width: 230px;
+        margin-top: 15px;
+    }
+    .inner_paragraphs {
+        margin-top: 15px;
+    }
+    .inner_controller img {
+        margin: 20px 8px 0px;
+        width: 50px;
+    }
+    .inner_controller .pause {
+        top:8px;
+    }
+  
+} 
+@media (max-width : 280px) {
+    .inner_img img {
+        width: 200px;
+        margin-top: 15px;
+    }
+    .inner_controller img {
+        margin: 20px 5px 0px;
+        width: 45px;
+    }
+    .inner_controller .pause {
+        top:6px;
+    }
+    .inner_controller .control {
+        width: 30px;
+    }
+} 

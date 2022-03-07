@@ -1,0 +1,20 @@
+
+.blob {
+   position: absolute;
+   bottom: 20px;
+   left: 50px;
+   width: 50px;
+   height: 50px;
+   background: rgba(255, 255, 255, 0.235);
+   z-index: 5;
+   border-radius: 25% 75% 51% 49% / 24% 33% 67% 76% ;
+   animation-name: blob;
+   animation-duration: 7s;
+   animation-timing-function: ease-in;
+   animation-iteration-count: infinite;
+   z-index: -1;
+}
+@keyframes blob {
+    0%{transform: translateY(50px)}
+    100%{transform: translateY(-800px); opacity: 0;} 
+}
