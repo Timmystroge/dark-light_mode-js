@@ -23,7 +23,7 @@
 @media (max-width : 767px) {
     .main_container {
         width: 45%;
-        height: 70vh;
+        height: 90vh;
     }
     .inner_page {
         height: 100%;
